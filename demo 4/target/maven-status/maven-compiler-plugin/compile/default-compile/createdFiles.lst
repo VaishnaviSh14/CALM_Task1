@@ -1,0 +1,8 @@
+com/example/demo/model/Student.class
+com/example/demo/DemoApplication.class
+com/example/demo/controller/FacultyController.class
+com/example/demo/repository/FacultyRepository.class
+com/example/demo/controller/StudentController.class
+com/example/demo/repository/StudentRepository.class
+com/example/demo/model/Faculty.class
+com/example/demo/service/StudentService.class
